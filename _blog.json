@@ -1,0 +1,8 @@
+{
+  "deployCon": {
+    "commitMessage": "docs: new essay",
+    "remote_store_url": "https://github.com/YYGod0120/test.git",
+    "remote_store_name": "origin",
+    "branch": "master"
+  }
+}
